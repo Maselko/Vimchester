@@ -19,3 +19,4 @@ endif
 to your `.vimrc` file.
 
 ## Screenshot
+![Screenshot](/images/screenshot.png)
